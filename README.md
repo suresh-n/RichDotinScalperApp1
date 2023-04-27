@@ -17,7 +17,7 @@ Additionally, you can manually trail the stop-loss order by selecting the “Tri
 ``
 #### How to setup the App
 
-Downloaed the zip file in this git repo and extract it, then find the RichDotinScalperApp.exe and run it. It's kind of portable App no need of any installation. 
+Downloaed the zip file in this git repo release and extract it, Now find the RichDotinScalperApp.exe and run it. It's kind of portable App no need of any installation. 
 
 * First time when you launch, when you click login button the credentials form pops up, we just need to add credential, API and authenticator details.
 
