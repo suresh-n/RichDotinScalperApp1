@@ -64,5 +64,7 @@ The RichDotinScalper App is a platform designed to help traders place orders qui
 
 There was option set for main windows always top the same not applied for sl windows,etc.. if you dont seen the option after click menu items then just move the app you can see it behind will try to correct this next release. 
 
+**We noticed the winows defender showing the our exe as virus please add file in exception on windows defender to make it work otherwise the app getting deleted.**
+
 ### Note
 Please contact your financial adviser before placing your trade. We are not responsible for any trading loss or issues that occur due to broker API problems.
