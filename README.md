@@ -28,7 +28,7 @@ The RichDotinScalper App is a platform designed to help traders place orders qui
 
 4. Relaunch the app and click "Login." Now, it should be all set, and you should see "Login Success!" in the message area.
 
-![Login Success](https://github.com/suresh-n/RichDotinScalperApp1/assets/17276643/026247e8-8b85-4d8e-a0ae-32b524d0f416)
+![image_2023-09-29_12-56-36](https://github.com/suresh-n/RichDotinScalperApp1/assets/17276643/6d3d0d1e-3117-434a-9031-2aa503e1088b)
 
 ### How to Use the Scalper App
 
@@ -57,14 +57,15 @@ The RichDotinScalper App is a platform designed to help traders place orders qui
 
 ### Shortcut Keys 
 
-- **Left Arrow**: Buy call button
-- **Right Arrow**: Buy Put button
-- **Key C**: Squre Off All or close button
-- **Key T**: Trail 2 points up from price. 
-
-There was option set for main windows always top the same not applied for sl windows,etc.. if you dont seen the option after click menu items then just move the app you can see it behind will try to correct this next release. 
+**Left Arrow:** Initiates a Buy Call order.
+**Right Arrow:** Initiates a Buy Put order.
+**Key C:** Squares Off all or closes open positions.
+**Key T:** Places a target order with predefined target points set in your settings.
+**Key S:** Places a stop loss order with predefined stop loss points set in your settings.
+**Key 1:** Initiates a trailing stop loss order with predefined trail stop points set in your settings.
 
 **We noticed the winows defender showing the our exe as virus please add file in exception on windows defender to make it work otherwise the app getting deleted.**
+I'm working on the fix to this, as of now just turn off realtime protection in windows defender and add the exe to the exception then turn the realtime protection again.  
 
 ### Note
 Please contact your financial adviser before placing your trade. We are not responsible for any trading loss or issues that occur due to broker API problems.
