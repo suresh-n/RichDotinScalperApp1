@@ -1,6 +1,6 @@
-# RichDotinScalperApp for Shoonya
+# RichDotinScalperApp for Shoonya and Flattrade
 
-RichDotinScalperApp is created using PyQt6 and Python to increase performance and can be used with the Shoonya API for scalping in index options like Nifty, BankNifty, and FinNifty.
+RichDotinScalperApp is created using PyQt6 and Python to increase performance and can be used with the Shoonya and Flattrade API for scalping in index options like Nifty, BankNifty, and FinNifty.
 
 The RichDotinScalper App is a platform designed to help traders place orders quickly to their broker terminals without having to log in to the broker’s user interface. Here are some of the features of this tool:
 
@@ -22,7 +22,7 @@ The RichDotinScalper App is a platform designed to help traders place orders qui
 
 ![image](https://github.com/suresh-n/RichDotinScalperApp1/assets/17276643/f015c498-48ea-4304-a135-00232a6e6abd)
 
-2. The first time you launch the app and click the login button, a credentials form will pop up. Add your credentials, API, and authenticator details.
+2. The first time you launch the app and click the login button, a credentials form will pop up. Add your credentials, API, and authenticator details. [For Flattrade we need to manually enter the required login details in cred.yml file]
 
 3. Once you've entered all the details, click "Submit." These details will be added to the `config.ini` file.
 
