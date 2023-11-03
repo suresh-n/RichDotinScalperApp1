@@ -67,5 +67,7 @@ The RichDotinScalper App is a platform designed to help traders place orders qui
 **We noticed the winows defender showing the our exe as virus please add file in exception on windows defender to make it work otherwise the app getting deleted.**
 I'm working on the fix to this, as of now just turn off realtime protection in windows defender and add the exe to the exception then turn the realtime protection again.  
 
+demo video : 📈 Free Index option Scalper App for Shoonya and Flattrade API - Demo 📉 #Shoonya#Flattrade #richdotin
+https://youtu.be/kGtyJ5Ar64M
 ### Note
 Please contact your financial adviser before placing your trade. We are not responsible for any trading loss or issues that occur due to broker API problems.
