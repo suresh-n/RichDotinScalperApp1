@@ -69,5 +69,7 @@ I'm working on the fix to this, as of now just turn off realtime protection in w
 
 demo video : 📈 Free Index option Scalper App for Shoonya and Flattrade API - Demo 📉 #Shoonya#Flattrade #richdotin
 https://youtu.be/kGtyJ5Ar64M
+join telegram group by invite link: https://t.me/+RtOmEfaIn6JmMTg1
+
 ### Note
 Please contact your financial adviser before placing your trade. We are not responsible for any trading loss or issues that occur due to broker API problems.
