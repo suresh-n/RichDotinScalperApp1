@@ -64,6 +64,35 @@ The RichDotinScalper App is a platform designed to help traders place orders qui
 **Key S:** Places a stop loss order with predefined stop loss points set in your settings.
 **Key 1:** Initiates a trailing stop loss order with predefined trail stop points set in your settings.
 
+
+### Feature Addition: Max Stop Loss
+**Introducing Max MTM Stop Loss**
+
+We're excited to present a new feature that allows you to set a maximum stop loss for enhanced risk management. Follow the simple instructions below to make the most of this feature:
+
+![image](https://github.com/suresh-n/RichDotinScalperApp1/assets/17276643/869fa5c8-1e32-45c0-a9ab-4b4a747d4e97)
+
+
+**Accessing Settings:**
+
+Log in to your account and navigate to the 'Settings' section.
+Enter your desired max MTM stop loss value and save the configuration.
+
+**Activation:**
+
+Below the login/logout button, locate the 'ON/OFF' toggle.
+Switch it to 'ON,' and you'll notice it turning green, indicating that the feature is now active.
+
+**Automated Square Off:**
+
+Once the MTM breaches the negatively defined value, the tool will automatically execute the square-off logic to mitigate potential losses.
+
+**Caution:**
+
+Exercise caution while using this feature, as it may experience occasional failures due to network fluctuations or API issues.
+Make your trading experience more secure and flexible with this powerful addition. Happy trading!
+
+
 **We noticed the winows defender showing the our exe as virus please add file in exception on windows defender to make it work otherwise the app getting deleted.**
 I'm working on the fix to this, as of now just turn off realtime protection in windows defender and add the exe to the exception then turn the realtime protection again.  
 
